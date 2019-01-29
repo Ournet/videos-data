@@ -1,6 +1,6 @@
 {
   "name": "@ournet/videos-data",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Ournet videos data module",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
@@ -44,8 +44,8 @@
     "typescript": "3.1.6"
   },
   "dependencies": {
-    "@ournet/domain": "^0.3.3",
-    "@ournet/videos-domain": "^0.0.1",
+    "@ournet/domain": "^0.3.4",
+    "@ournet/videos-domain": "^0.1.0",
     "aws-sdk": "^2.354.0",
     "dynamo-item": "^0.1.1"
   }

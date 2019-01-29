@@ -59,22 +59,22 @@
     pretty-ms "^0.2.1"
     text-table "^0.2.0"
 
-"@ournet/domain@^0.3.3":
-  version "0.3.3"
-  resolved "https://registry.yarnpkg.com/@ournet/domain/-/domain-0.3.3.tgz#549e495b41141b596e816c0eef705d4bbea6c0fd"
-  integrity sha512-YilpjstmvRJ1Mq8+mEabp6iT6M5U/RBzCoq3p55bqW3qMXaTHtDixXqZOcF9YqR+pLLgc2KsNcRKkyJAW+FPIA==
+"@ournet/domain@^0.3.4":
+  version "0.3.4"
+  resolved "https://registry.yarnpkg.com/@ournet/domain/-/domain-0.3.4.tgz#59a8fb3c13a38b3a82601e9c3fbde40eee9d7c93"
+  integrity sha512-PNpVFhgtOlgQGeRkjQWZjBkbP7edHzX6LZRNteXk2/sjO55kg/Bf7JahbxywZ6K+WQsjWpbUJgtHHHS7aoqaAQ==
   dependencies:
     atonic "^1.0.4"
     ava "^0.25.0"
     joi "^14.0.3"
     normalize-url "^3.2.0"
 
-"@ournet/videos-domain@^0.0.1":
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/@ournet/videos-domain/-/videos-domain-0.0.1.tgz#2933fde260f4d71b9d513d7a08b79493df81878e"
-  integrity sha512-6rNnitz9MWVHJ0AmyBSW+Zl1zTbFlj3o4xybDdZHvxIKLx0+oH+0q+Eal9C37ENVQ1P0JaSeaMHUWfyto+9KSg==
+"@ournet/videos-domain@^0.1.0":
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/@ournet/videos-domain/-/videos-domain-0.1.0.tgz#a118fb68db3b31f5bc1991db6f7dc67307a66f1c"
+  integrity sha512-9fhcuo6LSb+gOviXQ9vArtNYNZ/dmpSKcVzmmLK/bgj28oO1loq4lbTVtF0C5wTw/IET1It0Z18kpB7NrSUcMA==
   dependencies:
-    "@ournet/domain" "^0.3.3"
+    "@ournet/domain" "^0.3.4"
     joi "^14.0.3"
     ms "^2.1.1"
 
